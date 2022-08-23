@@ -1,2 +1,2 @@
 # Social-Media-App
-* Work in Progress*
+ Work in Progress
